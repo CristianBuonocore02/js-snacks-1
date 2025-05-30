@@ -9,4 +9,7 @@ if (numero1 > numero2) {
 } else if (numero2 > numero1) {
     console.log("il secondo numero è maggiore");
 
+} else {
+    console.log("i numeri sono uguali");
+
 }
